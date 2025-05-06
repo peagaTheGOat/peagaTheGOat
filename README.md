@@ -1,6 +1,8 @@
-<h2>Sobre mim</h2>
+<h2>/h2>
 
 ```python
+#Sobre mim
+
 class HenriqueR:
     def __init__(self):
         self.nome = "Henrique de Figueiredo Reinaldi"
