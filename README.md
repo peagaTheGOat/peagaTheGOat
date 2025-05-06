@@ -9,12 +9,10 @@ class HenriqueR:
         self.tipo = "estudante de ciências da computação"
         
     def intro(self):
-        resposta = "Chamo-me "
-
         index_primeiro_espaco = self.nome.find(' ')
-        resposta = resposta + self.nome[:index_primeiro_espaco]
+        resposta = f"Chamo-me {self.nome[:index_primeiro_espaco]}, "
 
-        resposta = resposta + f", gosto de resolver problemas e atualmente sou um {self.tipo}. "
+        resposta = resposta + f"gosto de resolver problemas e atualmente sou um {self.tipo}. "
 
         resposta = resposta + f"Sou fluente em {" e ".join(self.idiomas)} "
 
