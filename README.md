@@ -9,4 +9,4 @@
 <p><a target="_blank" href="https://www.instagram.com/henrique_reinaldi" style="display: inline-block;"><img src="https://img.shields.io/badge/-Instagram-%23044F88?style=for-the-badge&logo=instagram" alt="instagram" /></a><a target="_blank" href="https://discord.com/users/345917375519916034" style="display: inline-block;"><img src="https://img.shields.io/badge/-Discord-%23424549?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a></p>
 </div>
 <h2></h2>
-<p align="center"><img alt="se liga nessa imagem engraçada haha" src="https://i.imgur.com/ubEqhsW.gif" /></p>
+<div align="center"><img alaing=center alt="aigis" src="https://i.imgur.com/ubEqhsW.gif"/></div>
