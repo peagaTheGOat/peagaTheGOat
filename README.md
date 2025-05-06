@@ -1,29 +1,29 @@
 <h2></h2>
 
 ```python
-#Sobre mim
+#About Me
 
 class HenriqueR:
     def __init__(self):
-        self.nome = "Henrique de Figueiredo Reinaldi"
-        self.linguagens= ["Python","C","C++"] 
-        self.idiomas = ["Inglês","Português"]
-        self.tipo = "estudante de ciências da computação"
+        self.name = "Henrique de Figueiredo Reinaldi"
+        self.code = ["Python","C","C++"] 
+        self.languages = ["English","Portuguese"]
+        self.type = "computer science student"
         
     def intro(self):
-        index_primeiro_espaco = self.nome.find(' ')
-        resposta = f"Chamo-me {self.nome[:index_primeiro_espaco]}, "
+        first_space_index = self.name.find(' ')
+        ans = f"I'm {self.name[:first_space_index]}, "
 
-        resposta = resposta + f"gosto de resolver problemas e atualmente sou um {self.tipo}. "
+        ans = ans + f"a {self.type} who enjoys solving problems. "
 
-        resposta = resposta + f"Sou fluente em {" e ".join(self.idiomas)} "
+        ans = ans + f"I'm fluent in {" and ".join(self.languages)}, "
 
-        resposta = resposta + f"e minha linguagem de programação favorita é {self.linguagens[0]}."
+        ans = ans + f"and my favourite coding language is {self.code[0]}."
         
-        return(resposta)
+        return(ans)
     
-eu = HenriqueR()
-print(eu.intro())
+me = HenriqueR()
+print(me.intro())
 ```
 
 <div align="center">
