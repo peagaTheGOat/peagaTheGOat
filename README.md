@@ -1,15 +1,32 @@
-<h1></h1>
-<p> • Chamo-me Henrique, gosto de resolver problemas de programação e atualmente estou no meu primeiro semestre de Ciências da Computação.</p>
-<h1>Linguagens que eu uso:</h1>
-<div align="center">
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a></p>
-</div>
-<h1>Redes sociais:</h1>
+<h2>Sobre mim</h2>
+
+```python
+class HenriqueR:
+    def __init__(self):
+        self.nome = "Henrique de Figueiredo Reinaldi"
+        self.linguagens= ["Python","C","C++"] 
+        self.idiomas = ["Inglês","Português"]
+        self.tipo = "estudante de ciências da computação"
+        
+    def intro(self):
+        resposta = "Chamo-me "
+
+        index_primeiro_espaco = self.nome.find(' ')
+        resposta = resposta + self.nome[:index_primeiro_espaco]
+
+        resposta = resposta + f", gosto de resolver problemas de programação e atualmente sou um {self.tipo}. "
+
+        resposta = resposta + f"Sou fluente em {len(self.idiomas)} idiomas e minha linguagem de programação favorita é {self.linguagens[0]}"
+        
+        return(resposta)
+    
+eu = HenriqueR()
+print(eu.intro())
+```
+
 <div align="center">
 <p><a target="_blank" href="https://www.instagram.com/henrique_reinaldi" style="display: inline-block;"><img src="https://img.shields.io/badge/-Instagram-%23044F88?style=for-the-badge&logo=instagram" alt="instagram" /></a><a target="_blank" href="https://discord.com/users/345917375519916034" style="display: inline-block;"><img src="https://img.shields.io/badge/-Discord-%23424549?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a></p>
 </div>
+
 <h2></h2>
 <div align="center"><img alaing=center alt="nao sabia que so podia gif ate 10mb slk" src="https://github.com/user-attachments/assets/0d25b710-07ee-42ab-9fb7-70406f0b1883"/></div>
-
-
-
