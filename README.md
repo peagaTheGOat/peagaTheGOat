@@ -14,9 +14,11 @@ class HenriqueR:
         index_primeiro_espaco = self.nome.find(' ')
         resposta = resposta + self.nome[:index_primeiro_espaco]
 
-        resposta = resposta + f", gosto de resolver problemas de programação e atualmente sou um {self.tipo}. "
+        resposta = resposta + f", gosto de resolver problemas e atualmente sou um {self.tipo}. "
 
-        resposta = resposta + f"Sou fluente em {len(self.idiomas)} idiomas e minha linguagem de programação favorita é {self.linguagens[0]}"
+        resposta = resposta + f"Sou fluente em {" e ".join(self.idiomas)} "
+
+        resposta = resposta + f"e minha linguagem de programação favorita é {self.linguagens[0]}."
         
         return(resposta)
     
