@@ -6,7 +6,7 @@
 class HenriqueR:
     def __init__(self):
         self.name = "Henrique de Figueiredo Reinaldi"
-        self.code = ["Python","C","C++"] 
+        self.code = ["Python","C","C++","Java"] 
         self.languages = ["English","Portuguese"]
         self.type = "computer science student"
         
