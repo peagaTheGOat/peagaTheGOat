@@ -2,7 +2,7 @@
 class Pedro:
     def __init__(self):
         self.name = "Pedro Henrique de Mello Sabino"
-        self.code = ["C#"] 
+        self.code = ["C#" , "Python"] 
         self.occupation = "software engineer student"
         
     def intro(self):
