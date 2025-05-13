@@ -9,3 +9,8 @@
 
 <details>
 <summary></summary>
+
+\
+trufinha
+
+[(trufinha)](https://photos.fife.usercontent.google.com/pw/AP1GczMRRtJlurtASUVk3s2XYD43U2vFQ70wzaQe8k9iVhaC1tP3jwkJ75RhjQ=w520-h924-s-no-gm?authuser=0)
