@@ -3,9 +3,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=peagaTheGOat&theme=dark&card_width=500">
 
 
-### Olá, meu nome é Pedro Henrique de Mello Sabino!
+### HARO! P E A G A <--
 
-<p>Estou cursando o primeiro semestre de Engenharia de Software!<br/> Centro Universitário de Brasília</p>
+<p>my name is Pedro and i do stuff when i want</p>
 
 <details>
 <summary></summary>
